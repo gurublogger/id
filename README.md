@@ -1,1 +1,1 @@
-<a href="https://mascemplon.github.io/blog/index.html">mas cemplon</a>
+<a href="https://gurublogger.github.io/id/index.html">GuruBlogger ID</a>
